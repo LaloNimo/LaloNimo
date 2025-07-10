@@ -1,6 +1,6 @@
 # Hi Everyone ✌🏻!  Lalo Triviño from Spain here 🤓💻
 
-![alt text](BANNER GITHUB.png)
+![alt text](https://github.com/LaloNimo/LaloNimo/blob/main/BANNER%20GITHUB.png?raw=true)
 
 ## A little by myself 🤖📝
 
