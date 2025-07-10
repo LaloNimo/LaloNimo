@@ -1,7 +1,7 @@
 #         🚧...PROFILE IN PROGRESS...🚧
 # Hi Everyone ✌🏻!  Lalo Triviño from Spain here 🤓💻
 
-![alt text](https://github.com/LaloNimo/LaloNimo/blob/main/BANNER%20GITHUB.png?raw=true)
+![alt text](https://github.com/LaloNimo/LaloNimo/blob/main/BANNER.png?raw=true)
 
 ## A little by myself 🤖📝
 
@@ -12,6 +12,8 @@ throw this adventure!! 😁🤟🏻
 
  **🗣️We can talk on any of theese languages🗣️**
 :es: | :us: | :it: | :fr:
+
+![Texto alternativo] (https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnM2NDB2dHVxcDZ5dnduaXJnenFqc200OTd4a2Jpd2k3bDZmZzIybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xsaLjLVqVXr3tS/giphy.gif)
 
 ## 💻💾🖱️
 - ### Languages
