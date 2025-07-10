@@ -19,5 +19,5 @@ throw this adventure!! 😁🤟🏻
 - ### Frameworks
 <code><img height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></code>
 
-[![LaloNimo's Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LaloNimo&theme=radical&hide_border=true)
+![LaloNimo's Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LaloNimo&theme=radical&hide_border=true)
 ![Github Followers](https://img.shields.io/github/followers/LaloNimo?label=Followers&logo=GitHub&style=for-the-badge)
