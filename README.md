@@ -9,7 +9,7 @@ My name is Lalo and I'm starting my travel into this fascinating world of coding
 I'm from Spain, currently living in Madrid. Really hope we can share and walk together
 throw this adventure!! 😁🤟🏻
 
-## **Languages:**
+## **Languages👾🗣️**
 :es: | :us: | :it: | :fr:
 
 ![LaloNimo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaloNimo)
