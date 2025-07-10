@@ -12,12 +12,12 @@ throw this adventure!! 😁🤟🏻
  **🗣️We can talk on any of theese languages🗣️**
 :es: | :us: | :it: | :fr:
 
-![LaloNimo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaloNimo)
-
-![Github Followers](https://img.shields.io/github/followers/LaloNimo?label=Followers&logo=GitHub&style=for-the-badge)
 
 - ### Languages
 <code><img height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code> <code><img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code> <code><img height="30" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
 
 - ### Frameworks
 <code><img height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></code>
+
+[![LaloNimo's Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LaloNimo&theme=radical&hide_border=true)
+![Github Followers](https://img.shields.io/github/followers/LaloNimo?label=Followers&logo=GitHub&style=for-the-badge)
