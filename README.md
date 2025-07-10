@@ -1,3 +1,4 @@
+#         🚧...PROFILE IN PROGRESS...🚧
 # Hi Everyone ✌🏻!  Lalo Triviño from Spain here 🤓💻
 
 ![alt text](https://github.com/LaloNimo/LaloNimo/blob/main/BANNER%20GITHUB.png?raw=true)
@@ -12,7 +13,7 @@ throw this adventure!! 😁🤟🏻
  **🗣️We can talk on any of theese languages🗣️**
 :es: | :us: | :it: | :fr:
 
-
+## 💻💾🖱️
 - ### Languages
 <code><img height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code> <code><img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code> <code><img height="30" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
 
@@ -21,3 +22,8 @@ throw this adventure!! 😁🤟🏻
 
 ![LaloNimo's Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LaloNimo&theme=radical&hide_border=true)
 ![Github Followers](https://img.shields.io/github/followers/LaloNimo?label=Followers&logo=GitHub&style=for-the-badge)
+
+
+##GitHub Trophies 😁🏆
+![Rahul's Github Trophies](https://github-profile-trophy.vercel.app/?username=LaloNimo&theme=onedark&column=3&margin-w=15&margin-h=15)
+
