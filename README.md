@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi Everyone ✌🏻!  Lalo Triviño from Spain here 🤓💻
 
-<!--
-**LaloNimo/LaloNimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![alt text](image.png)
 
-Here are some ideas to get you started:
+## A little by myself 🤖📝
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+How is going on? Hope everything goins on high quiality definitions 😋 
+My name is Lalo and I'm starting my travel into this fascinating world of coding. 
+I'm from Spain, currently living in Madrid. Really hope we can share and walk together
+throw this adventure!! 😁🤟🏻
+
+**Languages: ES :es: | EN :us: | IT :it: | FR :fr:**
+
+![LaloNimo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaloNimo)
+
+![Github Followers](https://img.shields.io/github/followers/LaloNimo?label=Followers&logo=GitHub&style=for-the-badge)
