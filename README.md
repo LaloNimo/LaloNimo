@@ -30,7 +30,4 @@ throw this adventure!! 😁🤟🏻
 ![Github Followers](https://img.shields.io/github/followers/LaloNimo?label=Followers&logo=GitHub&style=for-the-badge)
 
 
-## GitHub Trophies 😁🏆
-
-![Rahul's Github Trophies](https://github-profile-trophy.vercel.app/?username=LaloNimo&theme=onedark&column=3&margin-w=15&margin-h=15)
-
+![alt text](https://github.com/LaloNimo/LaloNimo/blob/main/ENDPAGE.png?raw=true)
