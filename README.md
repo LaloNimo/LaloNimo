@@ -29,5 +29,5 @@ throw this adventure!! 😁🤟🏻
 ![LaloNimo's Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LaloNimo&theme=radical&hide_border=true)
 ![Github Followers](https://img.shields.io/github/followers/LaloNimo?label=Followers&logo=GitHub&style=for-the-badge)
 
-
+![cute](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTQwazZtMjVtdHZibjI2cDg0aHZiOGNoa3JsaWpxdzg0bG8xdzFydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif)
 ![alt text](https://github.com/LaloNimo/LaloNimo/blob/main/ENDPAGE.png?raw=true)
