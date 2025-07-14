@@ -1,5 +1,4 @@
-#         🚧...PROFILE IN PROGRESS...🚧
-![alt text](https://github.com/LaloNimo/LaloNimo/blob/main/BANNER2.png?raw=true)
+![alt text](https://github.com/LaloNimo/LaloNimo/blob/main/ENDPAGE.png?raw=true)
 
 # Hi Everyone ✌🏻!  Lalo Triviño from Spain here 🤓💻
 
