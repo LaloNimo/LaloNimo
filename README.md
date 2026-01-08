@@ -1,13 +1,11 @@
 ![alt text](https://github.com/LaloNimo/LaloNimo/blob/main/ENDPAGE.png?raw=true)
 
-# Hi Everyone ✌🏻!  Lalo Triviño from Spain here 🤓💻
+# Hi Everyone ✌🏻!  Lalo Triviño from Spain here 💻
 
 ## A little by myself 🤖📝
 
-How is going on? Hope everything goins on high quiality definitions 😋 
-My name is Lalo and I'm starting my travel into this fascinating world of coding. 
-I'm from Spain, currently living in Madrid. Really hope we can share and walk together
-throw this adventure!! 😁🤟🏻
+Full-Stack Developer with a strong drive for new challenges and building meaningful projects. I enjoy working across both backend and frontend environments, with a particular passion for frontend development.
+I’m highly motivated, disciplined, and committed, with solid experience collaborating with new teams and people from different backgrounds. Clear communication, teamwork, and responsibility are core parts of how I work and contribute to projects.
 
  **🗣️We can talk on any of theese languages: ES | EN | IT | FR 🗣️**
 
