@@ -13,7 +13,9 @@ I’m highly motivated, disciplined, and committed, with solid experience collab
 
 ## 💻💾🖱️
 - ### Languages
-<code><img height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code> <code><img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code> <code><img height="30" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code> <code><img height="30" src="https://github.com/user-attachments/assets/d9b77131-3dd5-494f-aa5a-ec0af3c800b1"></code> <code><img height="30" src="https://github.com/user-attachments/assets/ef897f85-93d6-41e7-ad69-cb146c3e8f62"></code>
+<code><img height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code> <code><img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code> <code><img height="30" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code> <code><img height="30" src="https://img.shields.io/badge/:badgeContent?logo=Python&logoColor=white&label=Python&labelColor=white
+"></code> <code><img height="30" src="https://img.shields.io/badge/:badgeContent?logo=React&logoColor=white&label=React&labelColor=white
+"></code>
 
 - ### Frameworks
 <code><img height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></code>
