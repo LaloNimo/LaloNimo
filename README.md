@@ -21,8 +21,6 @@ I’m highly motivated, disciplined, and committed, with solid experience collab
 - ### Others Abilities
 <code><img height="30" src="https://img.shields.io/badge/PhotoShop-DD0031?style=for-the-badge&logo=Adobe&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/PhotoShop-DD0031?style=for-the-badge&logo=Adobe&logoColor=white"></code>
-
-<code><img height="30" src="https://img.shields.io/badge/AfterEffects-DD0031?style=for-the-badge&logo=Adobe&logoColor=white"></code>
 <br></br>
 
 ![LaloNimo's Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LaloNimo&theme=radical&hide_border=true)
